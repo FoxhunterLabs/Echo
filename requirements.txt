@@ -1,0 +1,4 @@
+# Echo – Deterministic Decision-Support Engine
+# Minimal dependencies for logging, JSON, and CLI execution.
+
+python-dateutil>=2.8.2
